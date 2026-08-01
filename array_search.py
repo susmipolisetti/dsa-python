@@ -1,0 +1,10 @@
+# Linear Search
+
+numbers = [10, 20, 30, 40, 50]
+
+key = 30
+
+if key in numbers:
+    print("Element Found")
+else:
+    print("Element Not Found")
